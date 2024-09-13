@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm GreatJulz</h1>
+<h1 align="center">Hi, I'm GreatJulz!</h1>
 <h3 align="center">Always learning and building.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=greatjulz&label=Profile%20views&color=0e75b6&style=flat" alt="greatjulz" /> </p>
